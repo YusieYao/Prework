@@ -10,9 +10,9 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] Image and introductory message displayed on screen
-* [ ] Button displayed on screen
-* [ ] Toast with message appears when button is pressed 
+- [x] Image and introductory message displayed on screen
+- [x] Button displayed on screen
+- [x] Toast with message appears when button is pressed
 
 The following **optional** features are implemented:
 
@@ -25,7 +25,7 @@ Here's a walkthrough of implemented features:
 <img src='Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with LiceCap
+GIF created with liceCap(https://www.cockos.com/licecap/)
 
 ## Notes
 
